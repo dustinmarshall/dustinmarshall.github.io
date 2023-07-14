@@ -1,13 +1,16 @@
 title: Dustin Marshall
-logo: "/images/headshot.jpeg?raw=true"
+headshot: "/images/headshot.jpeg?raw=true"
 description: >
   I've recently completed a master's degree in Computational Analysis and Public 
   Policy (MSCAPP) at the University of Chicago, with coursework in software 
   engineering, cloud computing, database management, machine learning, and 
   econometrics. My professional background is in supporting development economics 
   and data science research to evaluate the impacts of development programs in 
-  low- and middle-income countries.
+  low- and middle-income countries. 
   <br><br>
   <a href="https://www.linkedin.com/in/dustin-marshall-b1151184/">View My LinkedIn Profile</a> 
-
+  
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme
 google_analytics: G-35FELT9N8M 
