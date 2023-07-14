@@ -9,8 +9,5 @@ description: >
   low- and middle-income countries.
   <br><br>
   <a href="https://www.linkedin.com/in/dustin-marshall-b1151184/">View My LinkedIn Profile</a> 
-  
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
+
 google_analytics: G-35FELT9N8M 
