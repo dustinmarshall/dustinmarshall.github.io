@@ -1,4 +1,4 @@
-## Portfolio
+## Past Projects
 
 ---
 
