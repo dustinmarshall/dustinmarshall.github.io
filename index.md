@@ -24,6 +24,6 @@ During a Cloud Computing course for UChicago's MSc in Computer Science in Spring
 ---
 ## Dashboard Mapping Parks and Underutilized Public Land
 ### Data Visualization & Geospatial Analysis Code Sample
-During a Computer Science course for UChicago's MSc in Computer Science in Winter 2022, my group coded a data vizialization interface in Dash. The interface serves as a tool for urban planners to identify neighborhoods with disproportionately few green spaces and many vacant lots to be considered for conversion. My contribution focused on collecting, cleaning, and wrangling the data on green spaces and vacant lots using the City of Chicago and Cook County's APIs. The code and written report are available on <a href="https://github.com/dustinmarshall/less-vacant-places-more-green-spaces">GitHub</a>.
+During a Computer Science course for UChicago's MSc in Computational Analysis and Public Policy in Winter 2022, my group coded a data vizialization interface in Dash. The interface serves as a tool for urban planners to identify neighborhoods with disproportionately few green spaces and many vacant lots to be considered for conversion. My contribution focused on collecting, cleaning, and wrangling the data on green spaces and vacant lots using the City of Chicago and Cook County's APIs. The code and written report are available on <a href="https://github.com/dustinmarshall/less-vacant-places-more-green-spaces">GitHub</a>.
 
 <img src="images/dash.jpg"/>
