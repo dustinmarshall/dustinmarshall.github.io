@@ -1,7 +1,6 @@
 title: Dustin Marshall
 logo: "/images/logo.png"
 description: >
-  <br><br>
   I have a MSc in <a href="https://capp.uchicago.edu/">Computational Analysis and Public Policy</a> (MSCAPP) from the University of Chicago, 
   where I excelled in advanced coursework in software engineering, cloud computing, database development, machine learning, and econometrics.
   <br><br>
@@ -9,7 +8,6 @@ description: >
   Nobel laureate <a href="https://economics.uchicago.edu/directory/michael-kremer">Michael Kremer</a>, the <a 
   href="https://www.rockefellerfoundation.org/">Rockefeller Foundation</a>'s Data Science Team, and the <a 
   href="https://cega.berkeley.edu/">Center for Effective Global Action</a> (CEGA) at UC Berkeley.
-  <br><br>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
