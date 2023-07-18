@@ -3,21 +3,21 @@
 ---
 ## Genomic Annotation Service Application
 ### Cloud Engineering Code Sample
-During a Cloud Computing course for UChicago's MSc in Computer Science in Spring 2023, I built a custom cloud application with AWS. I used a custom Flask API, EC2 instances for frontend, backend, and utility services, S3 object storage buckets for inputs and outputs, a DynamoDB database for storing user and job data, Lambda functions for maintaining serverless scalable workflows, and SNS messages + SQS queues for communicating between the distributed systems. The Github repo for this project is private, but I've made the exported code available <a href="https://drive.google.com/file/d/1OJ5KSlXKvHIr8I5Tw-sYudv_NDYaP3Jb/view">here</a>.
+During a <a href="https://mpcs-courses.cs.uchicago.edu/2022-23/spring/courses/mpcs-51083-2#:~:text=This%20course%20provides%20an%20introduction,on%2Dpremises%20and%20cloud%20infrastructure.">Cloud Computing course</a> in UChicago's Computer Science Department in Spring 2023, I built a custom cloud application with AWS. I used a custom Flask API, EC2 instances for frontend, backend, and utility services, S3 object storage buckets for inputs and outputs, a DynamoDB database for storing user and job data, Lambda functions for maintaining serverless scalable workflows, and SNS messages + SQS queues for communicating between the distributed systems. The Github repo for this project is private, but I've made the exported code available <a href="https://drive.google.com/file/d/1OJ5KSlXKvHIr8I5Tw-sYudv_NDYaP3Jb/view">here</a>.
 
 <img src="images/gas.jpg"/>
 
 ---
 ## Medical AI Chatbot Application
 ### Software Engineering Code Sample + Academic Writing Sample
-During a Big Data and Development course for UChicago's MSc in Computational Analysis and Public Policy in Winter 2023, I coded and deployed a cloud-based <a href="https://docgpt.herokuapp.com/">medical AI chatbot</a> using OpenAI’s Completions and Embeddings API endpoints. I used prompt engineering and text embeddings drawn from a knowledge base of 257k doctor-patient dialogues to improve model response. I wrote an accompanying <a href="https://github.com/dustinmarshall/DocGPT/blob/main/research_design.pdf">research design</a> for a health intervention using the app. The application is fully open-source on <a href="https://github.com/dustinmarshall/DocGPT">GitHub</a>.
+During a <a href="https://harris.uchicago.edu/academics/programs-degrees/courses/big-data-and-development-winter-2023">Big Data and Development course</a> for UChicago's MSc in Computational Analysis and Public Policy in Winter 2023, I coded and deployed a cloud-based <a href="https://docgpt.herokuapp.com/">medical AI chatbot</a> using OpenAI’s Completions and Embeddings API endpoints. I used prompt engineering and text embeddings drawn from a knowledge base of 257k doctor-patient dialogues to improve model response. I wrote an accompanying <a href="https://github.com/dustinmarshall/DocGPT/blob/main/research_design.pdf">research design</a> for a health intervention using the app. The application is fully open-source on <a href="https://github.com/dustinmarshall/DocGPT">GitHub</a>.
 
 <img src="images/docgpt.jpg"/>
 
 ---
 ## Using Singular Value Decomposition to Detect Partisan Voting
 ### Machine Learning Code Sample + Academic Writing Sample
-During a Mathematical Foundations of Machine Learning course in UChicago's Computer Science Department in Fall 2022, I co-authored an ML analysis of federal and state voting records. We used singular value decomposition and non-negative matrix factorization to detect partisanship in voting behavior, finding two clear voting blocs at both the national and state level that align with party affiliation. The <a href="https://github.com/dustinmarshall/detecting_partisan_voting_using_SVD/blob/main/detecting_partisanship_using_SVD.ipynb">code</a> and accompanying <a href="https://github.com/dustinmarshall/detecting_partisan_voting_using_SVD/blob/main/detecting_partisanship_using_SVD.pdf">academic paper</a> are available on GitHub.
+During a <a href="https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/">Mathematical Foundations of Machine Learning course</a> in UChicago's Computer Science Department in Fall 2022, I co-authored an ML analysis of federal and state voting records. We used singular value decomposition and non-negative matrix factorization to detect partisanship in voting behavior, finding two clear voting blocs at both the national and state level that align with party affiliation. The <a href="https://github.com/dustinmarshall/detecting_partisan_voting_using_SVD/blob/main/detecting_partisanship_using_SVD.ipynb">code</a> and accompanying <a href="https://github.com/dustinmarshall/detecting_partisan_voting_using_SVD/blob/main/detecting_partisanship_using_SVD.pdf">academic paper</a> are available on GitHub.
 
 <img src="images/svd.jpg"/>
 
