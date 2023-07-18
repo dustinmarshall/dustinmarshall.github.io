@@ -15,18 +15,18 @@ During a Big Data and Development for course for UChicago's MSc in Computational
 <img src="images/docgpt.jpg"/>
 
 ---
-## Text Classification Model to Improve Grantee Discovery
-### Machine Learning & Data Analysis Code Sample + Blog Writing Sample
-During an internship with the Rockefeller Foundation's Data Science team in Summer 2022, I worked on a project mapping the non-profit space with natural language processing and machine learning. I built a subject classification model to classify their corpus of grant proposals to aid grantee discovery. The model is open-source on <a href="https://github.com/dustinmarshall/data_science_subject_classifier">GitHub</a> and a <a href="https://medium.com/mlearning-ai/using-nlp-to-improve-grantee-discovery-adc40f3833f">blog post</a> detailing the process was published on a popular machine learning blog on Medium.
-
-<img src="images/nlp.jpg"/>
-
----
 ## D3 Visualization for Vaccine Hesitency Chatbot Intervention 
 ### Data Visualization & Javascript Code Sample
 During a Data Visualization course for UChicago's MSc in Computational Analysis and Public Policy in Fall 2022, I created a data vizialization in D3.js using the preliminary results of an ongoing <a href="https://osf.io/mgyxu/">chatbot intervention</a> to improve vaccine acceptance in Kenya and Nigeria with Prof. Molly Offer-Westort and DIL Director Leah Rosenzweig. The visualization is coded using the JavaScript library D3.js, which is used to produce dynamic, interactive data visualizations in web browsers. It includes a chloropleth map, grouped bar charts, and heatmaps. The code is available on <a href="https://github.com/dustinmarshall/data_visualization_for_policy_analysis/tree/main/final_project">GitHub</a>.
 
 <img src="images/d3.jpg"/>
+
+---
+## Text Classification Model to Improve Grantee Discovery
+### Machine Learning & Data Analysis Code Sample + Blog Writing Sample
+During an internship with the Rockefeller Foundation's Data Science team in Summer 2022, I worked on a project mapping the non-profit space with natural language processing and machine learning. I built a subject classification model to classify their corpus of grant proposals to aid grantee discovery. The model is open-source on <a href="https://github.com/dustinmarshall/data_science_subject_classifier">GitHub</a> and a <a href="https://medium.com/mlearning-ai/using-nlp-to-improve-grantee-discovery-adc40f3833f">blog post</a> detailing the process was published on a popular machine learning blog on Medium.
+
+<img src="images/nlp.jpg"/>
 
 ---
 ## Interactive Dashboard Mapping Parks and Underutilized Public Land
