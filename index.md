@@ -1,18 +1,32 @@
 ## Project Portfolio
 
 ---
+## Consumer Research RAG Chat App
+### Software Engineering & Data Analysis Code Sample + Academic Writing Sample
+Currently leading the development of <a href="https://www.consumerreports.org/askcr/">AskCR</a>, Consumer Report's flagship RAG chat application, from concept, to pilot, to beta, to available to CR's 6+ million members via standalone mobile and web apps. AskCR uses Consumer Report's data to answer questions about product ratings, reviews, and more. We use custom query refinement, intent + topic routing, text-2-SQL search over structed data, and hybrid semantic + keyword search over unstructered data. The mobile app is built in React Native, the web app is built in Next.js, and the backend is built in Python. The application is closed-source, but we've published <a href="https://innovation.consumerreports.org/a-responsible-approach-to-generative-ai-development-llm-orchestration-part-2/">blog posts</a> on the early stages of the system architecture.
+
+<img src="images/askcr.jpg"/>
+
+---
+## Data Discovery & Analysis Chat App
+### Software Engineering Code Sample
+Created data discovery and analysis RAG chat app prototype with LLM orchestration that includes a first-stage, search step using a hybrid vector + metadata search in Pinecone and OpenAI’s Assistants API with custom functions, then a second-stage, analysis step using RAG retrieval for text data or a code interpreter for tabular data, with the frontend deployed on Streamlit (code). The application is fully open-source on <a href="https://github.com/dustinmarshall/data-lab">GitHub</a>.
+
+<img src="images/data-lab.jpg"/>
+
+---
+## Medical RAG Chat App
+### Software Engineering & Data Analysis Code Sample + Academic Writing Sample
+During a <a href="https://harris.uchicago.edu/academics/programs-degrees/courses/big-data-and-development-winter-2023">Big Data and Development course</a> for UChicago's MSc in Computational Analysis and Public Policy in Winter 2023, I coded and deployed a cloud-based <a href="https://docgpt.herokuapp.com/">medical AI chatbot</a> using OpenAI’s Completions and Embeddings API endpoints. I used prompt engineering and text embeddings drawn from a knowledge base of 257k doctor-patient dialogues to improve model response. I wrote an accompanying <a href="https://github.com/dustinmarshall/DocGPT/blob/main/research_design.pdf">research design</a> for a health intervention using the app. The application is fully open-source on <a href="https://github.com/dustinmarshall/DocGPT">GitHub</a>.
+
+<img src="images/docgpt.jpg"/>
+
+---
 ## Genomic Annotation Service Application
 ### Cloud Computing & Software Engineering Code Sample
 During a <a href="https://mpcs-courses.cs.uchicago.edu/2022-23/spring/courses/mpcs-51083-2#:~:text=This%20course%20provides%20an%20introduction,on%2Dpremises%20and%20cloud%20infrastructure.">Cloud Computing course</a> in UChicago's Computer Science Department in Spring 2023, I built a custom cloud application with AWS. I used a custom Flask API, EC2 instances for frontend, backend, and utility services, S3 object storage buckets for inputs and outputs, a DynamoDB database for storing user and job data, Lambda functions for maintaining serverless scalable workflows, and SNS messages + SQS queues for communicating between the distributed systems. The Github repo for this project is private, but I've made the exported code available <a href="https://drive.google.com/file/d/1OJ5KSlXKvHIr8I5Tw-sYudv_NDYaP3Jb/view">here</a>.
 
 <img src="images/gas.jpg"/>
-
----
-## Medical AI Chatbot Application
-### Software Engineering & Data Analysis Code Sample + Academic Writing Sample
-During a <a href="https://harris.uchicago.edu/academics/programs-degrees/courses/big-data-and-development-winter-2023">Big Data and Development course</a> for UChicago's MSc in Computational Analysis and Public Policy in Winter 2023, I coded and deployed a cloud-based <a href="https://docgpt.herokuapp.com/">medical AI chatbot</a> using OpenAI’s Completions and Embeddings API endpoints. I used prompt engineering and text embeddings drawn from a knowledge base of 257k doctor-patient dialogues to improve model response. I wrote an accompanying <a href="https://github.com/dustinmarshall/DocGPT/blob/main/research_design.pdf">research design</a> for a health intervention using the app. The application is fully open-source on <a href="https://github.com/dustinmarshall/DocGPT">GitHub</a>.
-
-<img src="images/docgpt.jpg"/>
 
 ---
 ## Using Singular Value Decomposition to Detect Partisan Voting
